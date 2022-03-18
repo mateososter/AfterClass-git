@@ -7,3 +7,6 @@ class Persona():
 
     def saluda(self):
         return f"Hola, mi nombre es {self.nombre}"
+
+    def camina(self, pasos):
+        return f'Hoy hice {pasos} pasos'
