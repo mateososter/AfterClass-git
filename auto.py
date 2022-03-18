@@ -5,3 +5,6 @@ class Auto():
         self.marca= marca
         self.modelo= modelo
         self.patente= patente
+
+    def arrancar(self):
+        return f"Brumm brummm....."
