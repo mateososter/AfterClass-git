@@ -5,3 +5,7 @@ class Auto():
         self.marca= marca
         self.modelo= modelo
         self.patente= patente
+
+    def frenar(self):
+        return 'kggggggg'
+    
