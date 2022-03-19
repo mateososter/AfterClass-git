@@ -8,3 +8,7 @@ class Auto():
 
     def arrancar(self):
         return f"Brumm brummm....."
+        
+    def frenar(self):
+        return 'kggggggg'
+    
